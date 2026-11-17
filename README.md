@@ -84,7 +84,7 @@ src/main/resources ├── config.properties └── testdata
 
 ### Clone Repository
 
-git clone [https://github.com/yourusername/your\-repository.git](https://github.com/yourusername/your-repository.git)
+git clone [https://github.com/yourusername/your\-repository.git)
 
 ### Install Dependencies
 
